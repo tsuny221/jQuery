@@ -1,3 +1,3 @@
 # jQueryの練習
-##SampleDate
+## SampleDate
 『jQuery最高の教科書』の勉強用
